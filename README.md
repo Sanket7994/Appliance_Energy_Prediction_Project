@@ -21,7 +21,8 @@ Appliances_energy_Prediction_Project.ipynb file is Google colab file that can be
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Process Flow Chart</h2>
-![dd](https://user-images.githubusercontent.com/109847409/209856652-9350a86b-a38f-4095-9cc1-df5f16251484.PNG)
+![dd](https://user-images.githubusercontent.com/109847409/209856927-938dc632-2812-451e-80ec-ff393377a776.PNG)
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
