@@ -6,6 +6,7 @@
 <h2> :floppy_disk: Problem statement </h2>
 The data set is at 10 min for about 4.5 months. The house temperature and humidity conditions were monitored with a ZigBee wireless sensor network. Each wireless node transmitted the temperature and humidity conditions around 3.3 min. Then, the wireless data was averaged for 10 minutes periods. The energy data was logged every 10 minutes with m-bus energy meters.Weather from the nearest airport weather station (Chievres Airport, Belgium) was downloaded from a public data set from Reliable Prognosis (rp5.ru) and merged together with the experimental data sets using the date and time column. Two random variables have been included in the data set for testing the regression models and to filter out non-predictive attributes.
 
+
 Access AlmaBetter Dataset via: https://grow.almabetter.com/data-science/projects/Appliance-Energy-Prediction
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -21,8 +22,8 @@ Appliances_energy_Prediction_Project.ipynb file is Google colab file that can be
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Process Flow Chart</h2>
-![image](https://user-images.githubusercontent.com/109847409/209856927-938dc632-2812-451e-80ec-ff393377a776.PNG)
 
+![Flow_Chart](https://user-images.githubusercontent.com/109847409/209857115-99a05650-f397-4e07-bffb-e9bb53471109.png)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
